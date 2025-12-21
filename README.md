@@ -8,7 +8,7 @@ Bu proje şu an **v1.0 (Initial Release)** aşamasındadır. Temel oyun döngüs
 
 ## 🚀 Mevcut Özellikler (v1.0)
 
-* **2 Oyuncu Desteği:** 1 Gerçek Oyuncu vs 1 Bot.
+* **2 Oyuncu Desteği:** 1 vs 1 yerel co-op
 * **Dinamik Harita:** Farklı fiyat ve kira bedellerine sahip 30 farklı semt.
 * **Ekonomi Sistemi:**
     * Tapu satın alma.
@@ -49,12 +49,12 @@ Projenin gelecekteki sürümleri için planlanan güncellemeler şunlardır:
 
 1.  Projeyi klonlayın:
     ```bash
-    git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+    git clone [https://github.com/SuleymanKilincc/Java-Monopoly-Game.git)
     ```
 2.  Favori IDE'nizi (IntelliJ IDEA, Eclipse vb.) açın.
 3.  `Main.java` dosyasını çalıştırın.
 4.  Konsol ekranındaki yönergeleri takip ederek oyunu oynayın.
 
 ---
-*Geliştirici: [Senin Adın]*
+*Geliştirici: [Süleyman Kılınç]*
 *Java Learning Journey 2024*
